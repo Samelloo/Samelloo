@@ -1,4 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Samelloo, a Malaysian Junior Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.azmirbarbershop.com/)<br>👨🏼‍🎓 studying Information Technology at Politeknik Muadzam Shah<br>👨🏼‍💻 Intern as Web Developer <br>🎬 
