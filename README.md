@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+https://github.com/Samelloo/Samelloo/blob/output/github-contribution-grid-snake.gif
+
 ![snake gif](https://github.com/Samelloo/Samelloo/blob/output/github-contribution-grid-snake.gif)
 
